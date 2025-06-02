@@ -1,0 +1,236 @@
+*{
+    padding: 0;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    width: 100%;
+    height: 100%;
+    background-position: center center;
+    background-size: cover;
+}
+
+.contenedorprincipal{
+    width: 100%;
+    margin: 1 1 auto;
+    padding: 5px 5px;
+}
+
+.texto p{
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 15px;
+    text-align: justify;
+    padding: 25px 25px;
+}
+
+.texto h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+.contenedor1{
+    width: 50%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    background-color: #BF8E63;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    backdrop-filter: blur(10px);
+}
+
+.contenedor2{
+    width: 50%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    background-color: #BF8E63;
+    border: 1px solid #000000;
+}
+
+.contenedor11{
+    width: 50%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    background-color: #BF8E63;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+}
+
+.contenedor22{
+    width: 50%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    background-color: #BF8E63;
+    border: 1px solid #000000;
+}
+
+.contenedor111{
+    width: 50%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    background-color: #BF8E63;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+}
+
+.contenedor222{
+    width: 50%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    background-color: #BF8E63;
+    border: 1px solid #000000;
+}
+
+
+.contenedor3{
+    width: 100%;
+    height: 725px;
+    margin-left: auto;
+    margin-right: auto;
+    float: center;
+    border: 1px solid #000000;
+}
+
+.contenedor4{
+    width: 100%;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    background-color: #BF8E63;
+    border: 1px solid #000000;
+}
+
+.contenedor50{
+    width: 100%;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    background-color: #BF8E63;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    backdrop-filter: blur(10px);
+}
+
+.contenedor51{
+    width: 100%;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    background-color: #BF8E63;
+    border: 1px solid #000000;
+}
+
+.contenedorvideo1{
+    width: 100%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    background-color: #BF8E63;
+    border: 1px solid #000000;
+}
+
+.contenedorvideo2{
+    width: 100%;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+    background-color: #BF8E63;
+    border: 1px solid #000000;
+}
+
+.minicontenedor{
+    width: 25%;
+    height: 325px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    background-color: teal;
+    box-sizing: border-box;
+}
+
+.minicontenedor p{
+    text-align: center;
+}
+
+
+.minicontenedor img{
+    display: block;
+    margin: 0 auto;
+}
+
+.minicontenedor video{
+    display: block;
+    margin: 0 auto;
+}
+
+.imge img{
+    border-radius: 5%;
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.video video{
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: center;
+}
+
+main .titulo h1{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-3 {
+    border: solid 1px black;
+    border-radius: 15px;
+    background-color: rgb(255, 207, 231);
+    font-family: "basiicmedium";
+    font-weight: 700;
+    font-size: 16px;
+    width: 250px;
+    height: 50px;
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding-top: 3px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+body{background-image: url("../IMAGENES/xolo.jpg")}
